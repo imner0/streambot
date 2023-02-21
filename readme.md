@@ -1,21 +1,3 @@
-<h1 align="center"></h1>
-<p align="center"> 
-  <img src="" alt="Lazy Streamer LOGO" width="650">
-  </a>
-  
- <p align="center">
-    A Telegram bot to turn all media and documents files to instant direct download and stream link .
-    <br />
-   </strong></a>
-    <br />
-    <a href="https://github.com/LazyDeveloperr/Lazy-Streamer-BOT/issues">Report a Bug</a>
-    |
-    <a href="https://github.com/LazyDeveloperr/Lazy-Streamer-BOT/issues">Request Feature</a>
-  </p>
-
-
-<hr>
-
 ## Please Follow me so you know whenever I release a new Project!❤️‍🔥
 ### Incase you are having trouble deploying bot you may hire developer we have reasonable rates [click here](https://t.me/LazyPrincessSupport)
 
